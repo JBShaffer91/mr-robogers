@@ -1,7 +1,7 @@
 // Business logic
 function getResultArray(input) {
   const resultArray = [];
-  for (let i = 0; i <= input; i++) {
+  for (let i = 1; i <= input; i++) {
     const stringField = i.toString();
     if (stringField.includes('3')) {
       resultArray.push('Won\'t you be my neighbor?');
@@ -22,7 +22,11 @@ window.onload = function() {
   form.addEventListener('submit', function(e) {
     e.preventDefault();
     let inputValue = document.getElementById('number').value;
-    inputValue = inputValue ? parseInt(inputValue) : 0;
+    if (inputValue) {
+      inputValue = parseInt(inputValue);
+    } else {
+      inputValue = 0;
+    }
     const resultArray = getResultArray(inputValue);
     const output = document.getElementById('output');
     output.innerHTML = resultArray.join(', ');
