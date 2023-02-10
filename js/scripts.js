@@ -31,4 +31,14 @@ window.onload = function() {
     const output = document.getElementById('output');
     output.innerHTML = resultArray.join(', ');
   });
+
+  const themeSwitch = document.querySelector('.theme-switch');
+  function switchTheme(e) {
+    if (e.target.checked) {
+      document.body.classList.add('dark-mode');
+    } else {
+      document.body.classList.remove('dark-mode');
+    }
+  }
+  themeSwitch.addEventListener('change', switchTheme);
 };
