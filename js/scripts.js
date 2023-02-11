@@ -25,6 +25,7 @@ const mrRogersGifs = [
   'https://media.tenor.com/BdfF_1ipKccAAAAC/sweater-put-on-sweaters.gif',
   'https://i.pinimg.com/originals/d2/bf/13/d2bf13b4e748ba530c9561fcc6cff471.gif',
   'https://www.mandatory.com/assets/uploads/2018/02/rogers-pans.gif',
+  'https://media4.giphy.com/media/xTeV7NOmYty0kpuuCQ/200.gif?cid=ecf05e47f3nc3aokq60tngdnsl7uxmfg99dlpshrcsvudrq7&rid=200.gif&ct=g',
 ];
 
 // UI logic
