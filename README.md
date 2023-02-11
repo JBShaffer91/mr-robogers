@@ -23,7 +23,7 @@ Beep Boop Neighbors is a JavaScript application that generates a sequence of num
 * The switchTheme function handles the toggle switch for the light/dark mode
 
 ### Tests
-The application has 3 tests to ensure the correct generation of the sequence. These tests can be found in the test.js file and can be run by calling the runTests function. The tests check the generated sequence against the expected result.
+The application has 3 tests to ensure the correct generation of the sequence. These tests can be found in the get_results_array.js file and can be run by calling the runTests function. The tests check the generated sequence against the expected result.
 
 
 
