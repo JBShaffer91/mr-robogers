@@ -17,12 +17,14 @@ function getResultArray(input) {
 }
 
 const mrRogersGifs = [
-  'https://i.pinimg.com/originals/22/67/75/226775d1db05b6e3e0a6d9310ba176c2.gif',
-  'https://thumbs.gfycat.com/ColossalWelloffBunting-size_restricted.gif',
-  'https://blog.lootcrate.com/wp-content/uploads/2020/04/giphy.gif',
-  'https://i.chzbgr.com/full/5395530752/h0DCD332B/looks-like-bob-ross-to-me',
-  'https://media.giphy.com/media/8OJdqYqN1Nii3UTD6l/giphy.gif',
-  'https://images.squarespace-cdn.com/content/v1/52652cf5e4b0469f698ba94d/1563475806449-4G9QSBQI35CMKRZNIGH6/bob03+%281%29.gif',
+  'https://ww2.kqed.org/pop/wp-content/uploads/sites/12/2019/01/mr-rogers-hip-hop-jacket.gif',
+  'https://i.pinimg.com/originals/00/ae/9b/00ae9b697062c8e3aded220062fd17a5.gif',
+  'https://media3.giphy.com/media/iHs6YQrxw0Es1R8KGx/giphy.gif',
+  'https://media2.giphy.com/media/3pZ9KPT56sy3xd375H/giphy.gif',
+  'https://media2.giphy.com/media/sczSE6UkynwiY/giphy.gif',
+  'https://media.tenor.com/BdfF_1ipKccAAAAC/sweater-put-on-sweaters.gif',
+  'https://i.pinimg.com/originals/d2/bf/13/d2bf13b4e748ba530c9561fcc6cff471.gif',
+  'https://www.mandatory.com/assets/uploads/2018/02/rogers-pans.gif',
 ];
 
 // UI logic
