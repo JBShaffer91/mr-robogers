@@ -1,4 +1,4 @@
-# Mr. Robogers Neighborhood
+# Mr. Roboger's Neighborhood
 
 ## Introduction
 Beep Boop Neighbors is a JavaScript application that generates a sequence of numbers and replaces specific numbers with "Beep!", "Boop!", or "Won't you be my neighbor?" based on certain criteria.
